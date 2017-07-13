@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Top.SchDoc
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=DRV8305-Q1.SchDoc|SymbolType=Normal|RawFileName=DRV8305-Q1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Driver Stage|SchDesignator=Driver Stage|FileName=Driver Stage.SchDoc|SymbolType=Normal|RawFileName=Driver Stage.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=STM32F301C8.SchDoc|SymbolType=Normal|RawFileName=STM32F301C8.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
