@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Driver Stage Member=C28
+Change Net Name : Old Net Name=SN1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=SN2 New Net Name=NetC35_1
+Change Net Name : Old Net Name=SN3 New Net Name=NetC34_1
+Change Net Name : Old Net Name=SP1 New Net Name=NetC33_2
+Change Net Name : Old Net Name=SP2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=SP3 New Net Name=NetC34_2
+Added Member To Class: ClassName=Driver Stage Member=Component C29 GRM188R72A182KA01D
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Driver Stage
+Added Room: Name=MCU

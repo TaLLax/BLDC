@@ -1,0 +1,10 @@
+Output: SciCards Netlist
+Type  : SciCardsNetlist
+From  : Project [PCB_Project.PrjPcb]
+   Generated File[Driver Stage.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:58:09 On 28.07.2017
