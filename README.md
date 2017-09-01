@@ -1,2 +1,2 @@
 # BLDC
-Low cost BLDC SPI driver 
+BLDC SPI driver 
